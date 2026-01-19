@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sushil Sonawane  
 
-📊 **Data Analyst | Business Reporting Analyst**  
+📊 **Data Analyst | Business Analyst**  
 
 I am a Data Analyst with hands-on experience in **SQL, Python, Power BI, and Excel**,
 specializing in **data cleaning, ETL automation, KPI engineering**, and building

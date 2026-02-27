@@ -86,6 +86,9 @@ specializing in **data cleaning, ETL automation, KPI engineering**, and building
   </a>
 </p>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sushil-17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+<p align="center">
 ⭐ Always open to <b>Data Analyst & Business Analyst</b> opportunities
 </p>
 

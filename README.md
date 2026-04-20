@@ -23,6 +23,7 @@ specializing in **data cleaning, ETL automation, KPI engineering**, and building
 ### 📊 Power BI Projects
 ### 🛒 Olist E-Commerce Operational Performance Analysis  
 ✔ **End-to-End Data Engineering**: Developed a PostgreSQL data warehouse for **100K+ records**, utilizing B-Tree indexing and complex SQL views to transform raw relational data into a high-performance analytical layer.
+
 ✔**Strategic BI Insights**: Designed an executive-level Power BI dashboard tracking **14.21M in revenue** and **93.23% on-time delivery**, using DAX time-intelligence to pinpoint regional logistics risks and growth drivers.
   
 👉 https://github.com/Sushil-17/Olist_ECommerce_Analytics
